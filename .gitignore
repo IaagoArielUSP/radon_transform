@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Python cache files and directories
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary directories and files
+/tmp/
